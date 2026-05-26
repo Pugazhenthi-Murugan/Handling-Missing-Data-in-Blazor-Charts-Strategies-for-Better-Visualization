@@ -1,11 +1,11 @@
 # Handling Missing Data in Blazor Charts
 
-Explore four proven strategies for visualizing missing data in Syncfusion Blazor Charts. This interactive demo application demonstrates how different empty point modes can enhance data visualization and tell a more accurate story with incomplete datasets.
+Explore four proven strategies for visualizing missing data in [Blazor Charts](https://www.syncfusion.com/blazor-components/blazor-charts). This interactive demo application demonstrates how different empty point modes can enhance data visualization and tell a more accurate story with incomplete datasets.
 
 
 ## Overview
 
-When working with real-world datasets, missing or null values are inevitable. This project demonstrates four strategic approaches to handling empty points in Syncfusion Blazor Charts, using real Federal Reserve economic data as a practical example.
+When working with real-world datasets, missing or null values are inevitable. This project demonstrates four strategic approaches to handling empty points in Blazor Charts, using real Federal Reserve economic data as a practical example.
 
 ### The Four Strategies
 
@@ -56,6 +56,8 @@ dotnet run
 
 ## Resources
 
-- [Syncfusion Blazor Charts Documentation](https://www.syncfusion.com/blazor-components/blazor-charts)
-- [Blazor Official Documentation](https://learn.microsoft.com/en-us/aspnet/core/blazor)
-- [Handling Missing Data in Visualizations](https://www.interaction-design.org/literature/topics/data-visualization)
+- [Blazor Empty Point Chart Demo](https://blazor.syncfusion.com/demos/chart/empty-point)
+- [EmptyPointMode API Reference](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.EmptyPointMode.html)
+- [Handling Missing Data in Blazor Charts Blog](https://www.syncfusion.com/blogs/post/handle-missing-data-blazor-charts)
+
+
